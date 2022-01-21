@@ -1,0 +1,156 @@
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.exe
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.deps.json
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.json
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.dev.json
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\bin\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.pdb
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.AssemblyReference.cache
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Form1.resources
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Properties.Resources.resources
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.GenerateResource.cache
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfoInputs.cache
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfo.cs
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.CoreCompileInputs.cache
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.pdb
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.genruntimeconfig.cache
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Form2.resources
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Form3.resources
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Form4.resources
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Base.resources
+D:\ΠΜΣ Πληροφορική\C#\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EldHelp.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.exe
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.deps.json
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.json
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.dev.json
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.pdb
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.HomeSlide.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.BaseLights.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.CcI.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Coffee_Dog.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EldHelp.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EntTherm.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.FrontPage.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.KitchenLight.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LightsBed.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LivingRoomLight.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Properties.Resources.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.QplanSMS.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.SmartHome.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Thermostat.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.GenerateResource.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfoInputs.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfo.cs
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.CoreCompileInputs.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.pdb
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.genruntimeconfig.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.YardLights.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.AssemblyReference.cache
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.exe
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.deps.json
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.json
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.dev.json
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.dll
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\bin\Debug\net5.0-windows\ref\Person_Machine.dll
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.pdb
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.AssemblyReference.cache
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.HomeSlide.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.BaseLights.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.CcI.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Coffee_Dog.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EldHelp.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EntTherm.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Form3.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.FrontPage.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.KitchenLight.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LightsBed.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LivingRoomLight.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Properties.Resources.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.QplanSMS.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.SmartHome.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Thermostat.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.YardLights.resources
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.GenerateResource.cache
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfoInputs.cache
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfo.cs
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.CoreCompileInputs.cache
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.dll
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\ref\Person_Machine.dll
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.pdb
+C:\Users\skepathianos.5\Dropbox (TP Greece)\Voice\dskepathianos\master\2ο εξαμηνο\Βιρβου\Final version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.genruntimeconfig.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.exe
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.deps.json
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.json
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.dev.json
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\bin\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.pdb
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.HomeSlide.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.BaseLights.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.CcI.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Coffee_Dog.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EldHelp.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EntTherm.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.FrontPage.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.KitchenLight.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LightsBed.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LivingRoomLight.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Properties.Resources.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.QplanSMS.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.SmartHome.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Thermostat.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.YardLights.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.GenerateResource.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfoInputs.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfo.cs
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.CoreCompileInputs.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.pdb
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.genruntimeconfig.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Cameras.resources
+D:\ΠΜΣ Πληροφορική\C_Sharp\Final_version\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.AssemblyReference.cache
+D:\ΠΜΣ Πληροφορική\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Cameras.resources
+D:\MSc Information\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.exe
+D:\MSc Information\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.deps.json
+D:\MSc Information\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.json
+D:\MSc Information\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.runtimeconfig.dev.json
+D:\MSc Information\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.dll
+D:\MSc Information\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\MSc Information\C_Sharp\Person_Machine\bin\Debug\net5.0-windows\Person_Machine.pdb
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.AssemblyReference.cache
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.HomeSlide.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.BaseLights.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Cameras.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.CcI.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Coffee_Dog.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EldHelp.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.EntTherm.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.FrontPage.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.KitchenLight.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LightsBed.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.LivingRoomLight.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Properties.Resources.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.QplanSMS.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.SmartHome.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.Thermostat.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.YardLights.resources
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.GenerateResource.cache
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfoInputs.cache
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.AssemblyInfo.cs
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.csproj.CoreCompileInputs.cache
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.dll
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\ref\Person_Machine.dll
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.pdb
+D:\MSc Information\C_Sharp\Person_Machine\obj\Debug\net5.0-windows\Person_Machine.genruntimeconfig.cache

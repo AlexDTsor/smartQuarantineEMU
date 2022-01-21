@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Base.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaseLights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CcI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EldHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EntTherm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Coffee_Dog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitchenLight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QplanSMS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrontPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LivingRoomLight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LightsBed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thermostat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cameras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SmartHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YardLights.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
